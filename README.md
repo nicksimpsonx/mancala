@@ -1,4 +1,4 @@
-#Mancala 12 Hour Challenge
+# Mancala 12 Hour Challenge:
 This application is the result of a programming challenge to create a version of the classic strategy game **Mancala** within 12 hours.
 
 ## Challenge Objectives:
